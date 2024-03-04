@@ -1,4 +1,4 @@
-import CompanionForm from "@/components/CompanionForm";
+import CompanionForm from "@/app/(root)/(routes)/companion/[companionId]/components/CompanionForm";
 import prismadb from "@/lib/prismadb";
 
 interface CompanionIdPageProps {
